@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "pl.sdacademy.zad6",
+      "type": "com.example.demo.ex6.CustomProps",
+      "sourceType": "com.example.demo.ex6.CustomProps"
+    }
+  ],
+  "properties": [
+    {
+      "name": "pl.sdacademy.zad6.address",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.ex6.CustomProps"
+    },
+    {
+      "name": "pl.sdacademy.zad6.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.demo.ex6.CustomProps"
+    },
+    {
+      "name": "pl.sdacademy.zad6.custom-attributes",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.example.demo.ex6.CustomProps"
+    },
+    {
+      "name": "pl.sdacademy.zad6.email",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.ex6.CustomProps"
+    },
+    {
+      "name": "pl.sdacademy.zad6.first-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.ex6.CustomProps"
+    },
+    {
+      "name": "pl.sdacademy.zad6.last-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.ex6.CustomProps"
+    },
+    {
+      "name": "pl.sdacademy.zad6.values",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.example.demo.ex6.CustomProps"
+    }
+  ],
+  "hints": []
+}

@@ -12,6 +12,6 @@ import java.util.Map;
 @AllArgsConstructor
 @Builder
 public class NamedPairs {
-    private String name;
+    private String simpleName;
     Map<String, String> pairs;
 }
